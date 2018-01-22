@@ -1,4 +1,5 @@
 .gitattributes !filter !diff
-#gameoflife-core/pom.xml filter=git-crypt-prod-users diff=git-crypt-prod-users
+gameoflife-core/pom.xml filter=git-crypt-prod-users diff=git-crypt-prod-users
+gameoflife-build/pom.xml filter=git-crypt-prod-users diff=git-crypt-prod-users
 gameoflife-deploy/pom.xml filter=git-crypt diff=git-crypt
 
